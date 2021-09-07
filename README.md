@@ -1,8 +1,9 @@
 I joined Github **0** years, **3** months and **11** days ago.
 
-Since then I've pushed **603** commits, opened **1** issues, submitted **107** pull requests, complete **95** code reviews across **5** repositories.
+Since then I've pushed **604** commits, opened **1** issues, submitted **107** pull requests, complete **95** code reviews across **5** repositories.
 
 Most used languages projects I've contributed to are:
+
 ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%232b7489&message=TypeScript%EF%B8%B145.4%25)
 ![C#](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B137.2%25)
 ![SQL](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e38c00&message=SQL%EF%B8%B19.3%25)

@@ -1,4 +1,4 @@
-Joined Github **{{ ACCOUNT_AGE_YEARS }}** years, **{{ ACCOUNT_AGE_DAYS }}** months and **{{ ACCOUNT_AGE_DAYS }}** days ago.
+Joined Github **{{ ACCOUNT_AGE_YEARS }}** years, **{{ ACCOUNT_AGE_MONTHS }}** months and **{{ ACCOUNT_AGE_DAYS }}** days ago.
 
 Since then I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, complete **{{CODE_REVIEWS}}** code reviews across **{{ REPOSITORIES_CONTRIBUTED_TO }}** repositories.
 

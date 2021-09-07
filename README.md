@@ -1,19 +1,9 @@
-### Hi there 👋
+Joined Github **0** years ago.
 
-<!--
-**emlyn-arkahna/emlyn-arkahna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Since then I pushed **594** commits, opened **1** issues, submitted **107** pull requests, received **0** stars across **1** personal projects and contributed to **5** public repositories.
 
-Here are some ideas to get you started:
+Most used languages across my projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
--->
-
-<img src="https://github-readme-stats.vercel.app/api?username=emlyn-arkahna&show_icons=true&count_private=true" alt="emlyn-arkahna" />
+--
+<p align="right"><sub>Generated using <a href="https://github.com/marketplace/actions/profile-readme-stats">emlyn-arkahna/profile-readme-stats</a></sub></p>
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=emlyn-arkahna.emlyn-arkahna" alt="visitors"></p>

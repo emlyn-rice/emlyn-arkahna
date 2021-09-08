@@ -19,17 +19,18 @@ jobs:
     - uses: actions/checkout@v2
       with:
         fetch-depth: 0
-    - name: Generate README.md
-      uses: emlyn-arkahna/profile-readme-stats@master
-      with:
-        token: ${{ secrets.USER_TOKEN }}
-      
-    - name: Skyline plugin (complete)
+        
+    - name: Update Skyline plugin
       uses: lowlighter/metrics@latest
       with:
         plugin_skyline: yes
         plugin_skyline_frames: 60
         plugin_skyline_quality: 0.7
+        token: ${{ secrets.USER_TOKEN }}
+        
+    - name: Generate README.md
+      uses: emlyn-arkahna/profile-readme-stats@master
+      with:
         token: ${{ secrets.USER_TOKEN }}
         
     - name: Update Files

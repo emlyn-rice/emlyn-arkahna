@@ -23,7 +23,15 @@ jobs:
       uses: emlyn-arkahna/profile-readme-stats@master
       with:
         token: ${{ secrets.USER_TOKEN }}
-    - name: Update README.md
+      
+    - name: Skyline plugin (complete)
+      uses: lowlighter/metrics@latest
+      with:
+        plugin_skyline: yes
+        plugin_skyline_frames: 60
+        plugin_skyline_quality: 0.7
+        
+    - name: Update Files
       run: |
         if [[ "$(git status --porcelain)" != "" ]]; then
         git config user.name github-actions[bot]

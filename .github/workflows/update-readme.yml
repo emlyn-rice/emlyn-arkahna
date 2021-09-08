@@ -30,6 +30,7 @@ jobs:
         plugin_skyline: yes
         plugin_skyline_frames: 60
         plugin_skyline_quality: 0.7
+        token: ${{ secrets.USER_TOKEN }}
         
     - name: Update Files
       run: |

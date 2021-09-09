@@ -13,7 +13,7 @@ on:
         default: 'warning'
     
 jobs:
-  publish:
+  Generate Skyline:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
@@ -27,6 +27,13 @@ jobs:
         plugin_skyline_frames: 60
         plugin_skyline_quality: 0.7
         token: ${{ secrets.USER_TOKEN }}
+        
+  Generate Readme:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
         
     - name: Generate README.md
       uses: emlyn-arkahna/profile-readme-stats@master

@@ -13,7 +13,7 @@ on:
         default: 'warning'
     
 jobs:
-  Generate Skyline:
+  generate_skyline:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
@@ -28,7 +28,7 @@ jobs:
         plugin_skyline_quality: 0.7
         token: ${{ secrets.USER_TOKEN }}
         
-  Generate Readme:
+  generate_readme:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2

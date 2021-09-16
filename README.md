@@ -2,12 +2,12 @@
 
 I joined Github **0** years, **3** months and **20** days ago.
 
-Since then I've pushed **1000** commits, opened **1** issues, submitted **133** pull requests, complete **99** code reviews across **6** repositories.
+Since then I've pushed **1013** commits, opened **1** issues, submitted **133** pull requests, complete **99** code reviews across **6** repositories.
 
 Most used languages projects I've contributed to are:
 
-![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%232b7489&message=TypeScript%EF%B8%B146%25)
-![C#](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B138.1%25)
+![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%232b7489&message=TypeScript%EF%B8%B145.9%25)
+![C#](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B138.2%25)
 ![SQL](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e38c00&message=SQL%EF%B8%B16.9%25)
 ![HCL](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=HCL%EF%B8%B16%25)
 ![Gherkin](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%235B2063&message=Gherkin%EF%B8%B10.7%25)

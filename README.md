@@ -2,7 +2,7 @@
 
 I joined Github **0** years, **3** months and **26** days ago.
 
-Since then I've pushed **1034** commits, opened **1** issues, submitted **143** pull requests, complete **100** code reviews across **10** repositories.
+Since then I've pushed **1049** commits, opened **1** issues, submitted **144** pull requests, complete **100** code reviews across **10** repositories.
 
 Most used languages projects I've contributed to are:
 
@@ -13,7 +13,7 @@ Most used languages projects I've contributed to are:
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B11%25)
 ![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B11%25)
 ![Go](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%EF%B8%B10.8%25)
-![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B13.4%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B13.5%25)
 
 ---
 <img src="https://raw.githubusercontent.com/emlyn-arkahna/emlyn-arkahna/main/github-metrics.svg" style="width:100%">

@@ -2,15 +2,15 @@
 
 I joined Github **0** years, **8** months and **29** days ago.
 
-Since then I've pushed **1301** commits, opened **1** issues, submitted **207** pull requests, complete **134** code reviews across **13** repositories.
+Since then I've pushed **1303** commits, opened **1** issues, submitted **209** pull requests, complete **135** code reviews across **13** repositories.
 
 Most used languages projects I've contributed to are:
 
-![C#](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B140.5%25)
-![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%232b7489&message=TypeScript%EF%B8%B139.6%25)
-![HCL](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=HCL%EF%B8%B110%25)
+![C#](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B141.1%25)
+![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%232b7489&message=TypeScript%EF%B8%B139.2%25)
+![HCL](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=HCL%EF%B8%B19.9%25)
 ![SQL](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e38c00&message=SQL%EF%B8%B15.2%25)
-![PowerShell](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23012456&message=PowerShell%EF%B8%B11.4%25)
+![PowerShell](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23012456&message=PowerShell%EF%B8%B11.3%25)
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B10.8%25)
 ![Gherkin](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%235B2063&message=Gherkin%EF%B8%B10.6%25)
 ![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B11.5%25)

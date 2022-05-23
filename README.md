@@ -1,6 +1,6 @@
 ## Hello I'm Emlyn
 
-I joined Github **0** years, **11** months and **26** days ago.
+I joined Github **0** years, **11** months and **27** days ago.
 
 Since then I've pushed **1438** commits, opened **2** issues, submitted **283** pull requests, complete **218** code reviews across **14** repositories.
 
@@ -12,7 +12,7 @@ Most used languages projects I've contributed to are:
 ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B16.9%25)
 ![SQL](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e38c00&message=SQL%EF%B8%B14%25)
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B11.3%25)
-![PowerShell](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23012456&message=PowerShell%EF%B8%B11.1%25)
+![PowerShell](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23012456&message=PowerShell%EF%B8%B11.2%25)
 ![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B11.3%25)
 
 ---

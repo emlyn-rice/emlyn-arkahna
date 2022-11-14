@@ -13,7 +13,7 @@ Most used languages projects I've contributed to are:
 ![HCL](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=HCL%EF%B8%B16.5%25)
 ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B16.4%25)
 ![SQL](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e38c00&message=SQL%EF%B8%B14.8%25)
-![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B15.6%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B15.7%25)
 
 ---
 <img src="https://raw.githubusercontent.com/emlyn-arkahna/emlyn-arkahna/main/github-metrics.svg" style="width:100%">

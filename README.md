@@ -2,12 +2,12 @@
 
 I joined Github **1** years, **8** months and **28** days ago.
 
-Since then I've pushed **2301** commits, opened **9** issues, submitted **490** pull requests, complete **439** code reviews across **22** repositories.
+Since then I've pushed **2309** commits, opened **9** issues, submitted **493** pull requests, complete **440** code reviews across **22** repositories.
 
 Most used languages projects I've contributed to are:
 
 ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%EF%B8%B132.8%25)
-![C#](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B118.4%25)
+![C#](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B118.5%25)
 ![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%EF%B8%B113.3%25)
 ![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B18%25)
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B16.2%25)

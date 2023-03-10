@@ -1,8 +1,8 @@
 ## Hello I'm Emlyn
 
-I joined Github **1** years, **9** months and **13** days ago.
+I joined Github **1** years, **9** months and **14** days ago.
 
-Since then I've pushed **2349** commits, opened **9** issues, submitted **505** pull requests, complete **444** code reviews across **22** repositories.
+Since then I've pushed **2360** commits, opened **9** issues, submitted **506** pull requests, complete **444** code reviews across **21** repositories.
 
 Most used languages projects I've contributed to are:
 

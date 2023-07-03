@@ -1,6 +1,6 @@
 ## Hello I'm Emlyn
 
-I joined Github **2** years, **1** months and **6** days ago.
+I joined Github **2** years, **1** months and **7** days ago.
 
 Since then I've pushed **2919** commits, opened **9** issues, submitted **565** pull requests, complete **487** code reviews across **17** repositories.
 

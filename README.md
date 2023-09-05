@@ -2,12 +2,12 @@
 
 I joined Github **2** years, **3** months and **9** days ago.
 
-Since then I've pushed **2339** commits, opened **10** issues, submitted **473** pull requests, complete **419** code reviews across **13** repositories.
+Since then I've pushed **2340** commits, opened **10** issues, submitted **473** pull requests, complete **420** code reviews across **13** repositories.
 
 Most used languages projects I've contributed to are:
 
-![TSQL](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e38c00&message=TSQL%EF%B8%B172.8%25)
-![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%EF%B8%B118.8%25)
+![TSQL](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e38c00&message=TSQL%EF%B8%B172.7%25)
+![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%EF%B8%B118.9%25)
 ![C#](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B12.6%25)
 ![HCL](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23844FBA&message=HCL%EF%B8%B12.5%25)
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B12.3%25)

@@ -1,8 +1,8 @@
 ## Hello I'm Emlyn
 
-I joined Github **2** years, **4** months and **29** days ago.
+I joined Github **2** years, **4** months and **30** days ago.
 
-Since then I've pushed **2612** commits, opened **10** issues, submitted **537** pull requests, complete **435** code reviews across **14** repositories.
+Since then I've pushed **2612** commits, opened **10** issues, submitted **537** pull requests, complete **436** code reviews across **14** repositories.
 
 Most used languages projects I've contributed to are:
 
@@ -13,7 +13,7 @@ Most used languages projects I've contributed to are:
 ![TSQL](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e38c00&message=TSQL%EF%B8%B12.9%25)
 ![Shell](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2389e051&message=Shell%EF%B8%B11.1%25)
 ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B10.2%25)
-![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B10.4%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B10.5%25)
 
 ---
 <img src="https://raw.githubusercontent.com/emlyn-arkahna/emlyn-arkahna/main/github-metrics.svg" style="width:100%">

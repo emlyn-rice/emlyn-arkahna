@@ -1,12 +1,12 @@
 ## Hello I'm Emlyn
 
-I joined Github **2** years, **8** months and **1** days ago.
+I joined Github **2** years, **8** months and **2** days ago.
 
 Since then I've pushed **2545** commits, opened **10** issues, submitted **568** pull requests, complete **499** code reviews across **10** repositories.
 
 Most used languages projects I've contributed to are:
 
-![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%EF%B8%B167.8%25)
+![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%EF%B8%B167.9%25)
 ![C#](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B118.9%25)
 ![HCL](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23844FBA&message=HCL%EF%B8%B18.4%25)
 ![TSQL](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e38c00&message=TSQL%EF%B8%B12.7%25)

@@ -1,6 +1,6 @@
 ## Hello I'm Emlyn
 
-I joined Github **{{ ACCOUNT_AGE }}** years, **{{ ACCOUNT_AGE_MONTHS }}** months and **{{ ACCOUNT_AGE_DAYS }}** days ago.
+I joined Github **{{ ACCOUNT_AGE }}** years ago.
 
 Since then I've pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, complete **{{CODE_REVIEWS}}** code reviews across **{{ REPOSITORIES_CONTRIBUTED_TO }}** repositories.
 

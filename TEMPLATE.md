@@ -14,4 +14,4 @@ Most used languages projects I've contributed to are:
 <img src="https://raw.githubusercontent.com/emlyn-arkahna/emlyn-arkahna/main/github-metrics.svg" style="width:100%">
 
 ---
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=emlyn-arkahna.emlyn-arkahna" alt="visitors"></p>
+<p><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Femlyn-arkahna%2Femlyn-arkahna&countColor=%23263759&style=plastic" alt="visitors"></p>

@@ -25,8 +25,8 @@ jobs:
       with:
         base: ''
         plugin_skyline: yes
-        plugin_skyline_frames: 75
-        plugin_skyline_quality: 0.5
+        plugin_skyline_frames: 120
+        plugin_skyline_quality: 1
         token: ${{ secrets.USER_TOKEN }}
         
   generate_readme:

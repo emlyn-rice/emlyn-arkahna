@@ -1,19 +1,14 @@
 ## Hello I'm Emlyn
 
-I joined Github **2** years, **9** months and **2** days ago.
+I joined Github **{{ ACCOUNT_AGE_YEARS }}** years, **{{ ACCOUNT_AGE_MONTHS }}** months and **{{ ACCOUNT_AGE_DAYS }}** days ago.
 
-Since then I've pushed **2628** commits, opened **10** issues, submitted **587** pull requests, complete **506** code reviews across **10** repositories.
+Since then I've pushed **2629** commits, opened **10** issues, submitted **587** pull requests, complete **506** code reviews across **10** repositories.
 
 Most used languages projects I've contributed to are:
 
-![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%EF%B8%B167.2%25)
-![C#](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B118.6%25)
-![HCL](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23844FBA&message=HCL%EF%B8%B19.4%25)
-![TSQL](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e38c00&message=TSQL%EF%B8%B12.6%25)
-![Shell](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2389e051&message=Shell%EF%B8%B10.9%25)
-![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B10.4%25)
-![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B10.2%25)
-![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B10.4%25)
+{{ LANGUAGE_CONTRIBUTED_TEMPLATE_START }}
+![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
+{{ LANGUAGE_CONTRIBUTED_TEMPLATE_END }}
 
 ---
 <img src="https://raw.githubusercontent.com/emlyn-arkahna/emlyn-arkahna/main/github-metrics.svg" style="width:100%">

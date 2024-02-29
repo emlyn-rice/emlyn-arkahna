@@ -1,8 +1,8 @@
 ## Hello I'm Emlyn
 
-I joined Github **2** years, **{{ ACCOUNT_AGE_MONTHS }}** months and **{{ ACCOUNT_AGE_DAYS }}** days ago.
+I joined Github **2** years ago.
 
-Since then I've pushed **2634** commits, opened **10** issues, submitted **587** pull requests, complete **506** code reviews across **10** repositories.
+Since then I've pushed **2638** commits, opened **10** issues, submitted **587** pull requests, complete **506** code reviews across **10** repositories.
 
 Most used languages projects I've contributed to are:
 
@@ -15,4 +15,4 @@ Most used languages projects I've contributed to are:
 <img src="https://raw.githubusercontent.com/emlyn-arkahna/emlyn-arkahna/main/github-metrics.svg" style="width:100%">
 
 ---
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=emlyn-arkahna.emlyn-arkahna" alt="visitors"></p>
+<p><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Femlyn-arkahna%2Femlyn-arkahna&countColor=%23263759&style=plastic" alt="visitors"></p>

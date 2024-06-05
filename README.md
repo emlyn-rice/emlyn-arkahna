@@ -2,7 +2,7 @@
 
 I joined Github **3** years ago.
 
-Since then I've pushed **2972** commits, opened **10** issues, submitted **676** pull requests, complete **644** code reviews across **12** repositories.
+Since then I've pushed **2986** commits, opened **10** issues, submitted **680** pull requests, complete **647** code reviews across **12** repositories.
 
 Most used languages projects I've contributed to are:
 
